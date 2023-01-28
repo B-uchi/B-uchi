@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @B-uchi
-- 👀 I’m interested in Python, Flutter, Artificial Intelligence, Machine Learning
+- 👀 I’m interested in Python, ML, AI, Blockchain Technology.
 - 🌱 I’m currently learning Machine Learning.
 - 📫 How to reach me ibumeano@gmail.com
 
