@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Python Instructor
 -----------------------------------
 
-* 🌍  I'm based in Abuja, Nigeria
+* 🌍  I'm based in Abuja, Nigeria.
 * ✉️  You can contact me at [ibumeano@gmail.com](mailto:ibumeano@gmail.com)
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  I might be spiderman....
