@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ibuchukwu Umeano
 ========================================================================================================================================
 
-Web Developer and Python Instructor
+Web Developer and Python Instructor.
 -----------------------------------
 
 * 🌍  I'm based in Abuja, Nigeria.
 * ✉️  You can contact me at [ibumeano@gmail.com](mailto:ibumeano@gmail.com)
 * 🤝  I'm open to collaborating on Interesting projects
-* ⚡  I might be spiderman....
+* ⚡  I might be spiderman...
 
 ### Skills
 
