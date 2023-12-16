@@ -7,7 +7,6 @@ Web Developer and Python Instructor.
 * 🌍  I'm based in Abuja, Nigeria.
 * ✉️  You can contact me at [ibumeano@gmail.com](mailto:ibumeano@gmail.com)
 * 🤝  I'm open to collaborating on Interesting projects
-* ⚡  I might be spiderman...
 
 
 ### Skills
