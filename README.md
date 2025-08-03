@@ -1,35 +1,56 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ibuchukwu Umeano
-========================================================================================================================================
+<h1 align="center">Hi there 👋, I'm Ibuchukwu Umeano</h1>
+<h3 align="center">Fullstack Web Developer | Gopher | Builder of Cool Stuff </h3>
 
-Fullstack Web Developer (MERN Stack) and Python Instructor.
------------------------------------
-
-* 🌍  I'm based in Abuja, Nigeria.
-* ✉️  You can contact me at [ibumeano@gmail.com](mailto:ibumeano@gmail.com)
-* 🤝  I'm open to collaborating on Interesting projects
-
-
-### Skills
-
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
+<p align="center">
+  <a href="https://github.com/B-uchi"><img src="https://img.shields.io/github/followers/B-uchi?label=Follow&style=social" alt="GitHub Followers"></a>
+  <a href="mailto:ibumeano@gmail.com"><img src="https://img.shields.io/badge/email-me-red?logo=gmail&style=flat" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/ibuchukwu-umeano-640a04224/"><img src="https://img.shields.io/badge/LinkedIn-connect-blue?logo=linkedin&style=flat" alt="LinkedIn"></a>
 </p>
 
+---
 
-### Socials
+🚀 **About Me**
 
-<p align="left"> <a href="https://www.github.com/B-uchi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/yo_itz_buchi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ibuchukwu-umeano-640a04224/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/yo_itz_buchi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+```yaml
+Name: Ibuchukwu Umeano
+Location: Abuja, Nigeria
+Stack: MERN, Python, REST APIs, Golang
+Interests:
+  - Backend Engineering
+  - Scalable Systems
+  - Cloud and DevOps
+  - AI Technologies
+```
+
+I’m a passionate fullstack developer who enjoys solving problems and building products that people *actually want to use*. I've taught Python, built real-time messaging apps, and even dabbled in AI/NLP projects.
+
+Currently open to collaborating on **meaningful and challenging projects** — especially anything that improves lives or scales beautifully.
+
+---
+
+🛠️ **Technologies & Tools I Use**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,git,tailwind,bootstrap,vite,go,supabase,firebase,git" />
+</p>
+
+---
+
+📦 **Featured Projects**
+> A few things I’ve been working on lately:
+
+- 📦 **[alerta](https://github.com/B-uchi/alerta)** — A plug-and-play toast notification system for React. Simple API, sleek animations, no wrappers required.
+- 🧠 **Sentric (WIP)** — A SaaS platform for analyzing sentiment in product reviews using AI/ML.
+
+---
+
+📫 **Let’s Connect**
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ibuchukwu-umeano-640a04224/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" /></a>
+  <a href="https://www.instagram.com/yo_itz_buchi" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" /></a>
+  <a href="https://www.twitter.com/yo_itz_buchi" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" /></a>
+  <a href="https://github.com/B-uchi" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" /></a>
+</p>
+
+---
